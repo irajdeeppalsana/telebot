@@ -40,9 +40,9 @@ pip3 install -r requirements.txt
 ### Deployment
 With python3.7 or later.
 ```
-python3 -m bot
+python3 -m bot 
 ```
 
-### Copyright & License
+### Copyright
 - Copyright &copy; 2021 &mdash; [Adnan Ahmad](https://github.com/viperadnan-git)
 - Licensed under the terms of the [GNU General Public License Version 3 &dash; 29 June 2007](./LICENSE)
